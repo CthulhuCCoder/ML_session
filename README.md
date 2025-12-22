@@ -32,6 +32,7 @@
 ## Используемые данные
 
 * **Файл:** `high_popularity_spotify_data.csv`
+* **Ссылка на источник: ** `https://www.kaggle.com/datasets/solomonameh/spotify-music-dataset`
 * **Признаки:** `energy`, `tempo`, `danceability`, `loudness`, `liveness`, `valence`, `speechiness`, `instrumentalness`, `acousticness`, `duration_ms`.
 * **Целевая переменная:** `track_popularity` (0-100).
 * **Предобработка:** Все числовые признаки нормализованы с помощью `StandardScaler`.
